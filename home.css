@@ -1,0 +1,52 @@
+.header{
+    background-image:url(background.jpg );
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+}
+main {
+    background-color: white;
+}
+.about {
+    background-color: white;
+    margin:150px;
+    padding: 70px;
+    line-height: 35px;
+}
+#sbody{
+    background-image:url("background.jpg") ;
+}
+.Shark{
+
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 218, 11);
+    width: 100px;
+    margin-top: 30px;
+    
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.text{
+    padding: 50px 50px;
+    line-height: 30px;
+}
+.img{
+    padding:50px 50px;
+}
+.footer{
+    font-size: larger;
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 210, 11);
+}
+#head{
+    text-align: center;
+}
+.htext{
+    color: white;
+}
